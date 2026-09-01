@@ -14,14 +14,14 @@ spec:
     spec:
       containers:
         - name: app
-          image: aws-eks-kubernetes-app:local
+          image: aws-eks-kubernetes-app:latest
           imagePullPolicy: IfNotPresent
           ports:
             - containerPort: 8080
 
           env:
             - name: APP_VERSION
-              value: "v1.0.0"
+              value: "v2.0.0"
 
           readinessProbe:
             httpGet:
