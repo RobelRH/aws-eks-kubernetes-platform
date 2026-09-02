@@ -20,7 +20,7 @@ This project demonstrates:
 
 Architecture documentation will be added as the platform is built.
 
-## Technologies
+## Technologies Used
 
 - AWS
 - Amazon EKS
