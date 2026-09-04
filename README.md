@@ -18,7 +18,7 @@ This project demonstrates:
 
 ## Architecture
 
-Architecture documentation will be added as the platform is built.
+Architecture documentation will be added as the platform is built
 
 ## Technologies Used
 
