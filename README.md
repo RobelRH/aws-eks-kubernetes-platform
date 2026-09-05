@@ -12,7 +12,7 @@ This project demonstrates:
 - Helm-based application packaging
 - CI/CD with GitHub Actions
 - Secure AWS authentication using GitHub OIDC
-- Kubernetes health checks and rolling deployments
+- Kubernetes rolling deployments and health checks
 - Autoscaling
 - Monitoring and observability
 
